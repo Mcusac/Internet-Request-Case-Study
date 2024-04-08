@@ -1,0 +1,1 @@
+{"SVM": {"C": 1, "kernel": "linear"}, "SGD": {"alpha": 0.01, "loss": "hinge", "penalty": "l2"}}
